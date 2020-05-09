@@ -1,0 +1,13 @@
+C:\Users\Roman\source\repos\LabirintGame\LabirintGame\bin\Debug\netcoreapp3.1\LabirintGame.exe
+C:\Users\Roman\source\repos\LabirintGame\LabirintGame\bin\Debug\netcoreapp3.1\LabirintGame.deps.json
+C:\Users\Roman\source\repos\LabirintGame\LabirintGame\bin\Debug\netcoreapp3.1\LabirintGame.runtimeconfig.json
+C:\Users\Roman\source\repos\LabirintGame\LabirintGame\bin\Debug\netcoreapp3.1\LabirintGame.runtimeconfig.dev.json
+C:\Users\Roman\source\repos\LabirintGame\LabirintGame\bin\Debug\netcoreapp3.1\LabirintGame.dll
+C:\Users\Roman\source\repos\LabirintGame\LabirintGame\bin\Debug\netcoreapp3.1\LabirintGame.pdb
+C:\Users\Roman\source\repos\LabirintGame\LabirintGame\obj\Debug\netcoreapp3.1\LabirintGame.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\LabirintGame\LabirintGame\obj\Debug\netcoreapp3.1\LabirintGame.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\LabirintGame\LabirintGame\obj\Debug\netcoreapp3.1\LabirintGame.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\LabirintGame\LabirintGame\obj\Debug\netcoreapp3.1\LabirintGame.AssemblyInfo.cs
+C:\Users\Roman\source\repos\LabirintGame\LabirintGame\obj\Debug\netcoreapp3.1\LabirintGame.dll
+C:\Users\Roman\source\repos\LabirintGame\LabirintGame\obj\Debug\netcoreapp3.1\LabirintGame.pdb
+C:\Users\Roman\source\repos\LabirintGame\LabirintGame\obj\Debug\netcoreapp3.1\LabirintGame.genruntimeconfig.cache
